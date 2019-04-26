@@ -1,6 +1,6 @@
 ## Kaggle machine learning chalenges
 
-In this repository, I collect files trying to address some kaggle chalenges.
+In this repository, I collect files trying to address some kaggle chalenges. The "datasets" folder contains the datasets used for the chalenges.
 
 So far I have the following files:
 
