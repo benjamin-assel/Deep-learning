@@ -1,6 +1,6 @@
 ## Kaggle machine learning challenges
 
-In this repository, I collect files trying to address some kaggle chalenges.
+In this repository, I collect files trying to tackle some kaggle challenges.
 
 So far I have the following files:
 
