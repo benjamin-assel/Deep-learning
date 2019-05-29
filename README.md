@@ -1,4 +1,4 @@
-## Kaggle machine learning chalenges
+## Kaggle machine learning challenges
 
 In this repository, I collect files trying to address some kaggle chalenges.
 
