@@ -13,3 +13,5 @@ Position in the final standings: 117/2330 -> top 5%.
 I have used two approaches, based on interesting kaggle kernels. One is about generating many new features from the acoustic data and then running a simple LGBM regression model. The second is to built a 1d CNN taking directly the accoustic data and tweak its architecture. I also try different Gradient Boosting models and then average over predictions. 
 Position in the final standings: 2233/4541.
 
+- **Cactus Identification**: The task is to identify images which contain a cactus, so it is a binary classification task. There are 75000 training images (32x32 pixels, RGB) and the predictions are made on 4000 test images. 
+This is a rather simple task with nowadays tools, so the goal is mostly to practice with CNN models, rather than trying to find a smart approach.
