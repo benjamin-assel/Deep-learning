@@ -15,3 +15,5 @@ Position in the final standings: 2233/4541.
 
 - **Cactus Identification**: The task is to identify images which contain a cactus, so it is a binary classification task. There are 75000 training images (32x32 pixels, RGB) and the predictions are made on 4000 test images. 
 This is a rather simple task with nowadays tools, so the goal is mostly to practice with CNN models, rather than trying to find a smart approach.
+
+- **Dog Breeds Classification**:
