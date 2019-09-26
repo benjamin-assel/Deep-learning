@@ -27,5 +27,7 @@ Position in the standings: 687/1228.
 - **Gendered Pronoun Resolution**:(1) The data consists of texts, each containing a pronoun P and two nouns A and B. The task is to determine if P refers to A, B or none of them. The kaggle data comes unlabeled, but one can use the GAP files which contain the labels (A, B or Neither for each text). Following other competitors'kernels, I use the BERT contextual embeddings of the A, B and P words (Transfer Learning technique) and train a Multi-Layer Perceptron (using Keras) to make predictions. The model achieves 0.53 cross-entropy loss on the test set (middle of the leaderboard).
     link: https://www.kaggle.com/c/gendered-pronoun-resolution/overview
     
+- **Future Sales**: In this playground competition, we have to predict the number of sales for many shops and items in the next week, based on the knowledge of the sales in the past 33 weeks. There are many more shops and items in the training set than in the test set. I first perform some analysis of the total sales and make some predictions with an ARIMA model. Then I use an LSTM model to learn from the previous sales and make the challenge predictions. I obtain 1.025 on the learboard, which is roughly in the middle of the table.
+    link: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
     
 (1): Competition deadline passed when I entered. 
